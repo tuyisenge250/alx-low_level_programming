@@ -36,7 +36,6 @@ int main(void)
 		x++;
 		y = '0';
 	}
-	putchar('\n');
 	return (0);
 }
 
